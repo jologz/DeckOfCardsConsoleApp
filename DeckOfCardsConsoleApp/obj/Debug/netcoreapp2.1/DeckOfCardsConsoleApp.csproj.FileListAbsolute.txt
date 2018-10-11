@@ -1,0 +1,11 @@
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\bin\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.deps.json
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\bin\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.runtimeconfig.json
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\bin\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.runtimeconfig.dev.json
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\bin\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.dll
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\bin\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.pdb
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\obj\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.csprojAssemblyReference.cache
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\obj\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\obj\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.AssemblyInfoInputs.cache
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\obj\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.AssemblyInfo.cs
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\obj\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.dll
+C:\Ross\Google\Projects\DeckOfCardsConsoleApp\DeckOfCardsConsoleApp\obj\Debug\netcoreapp2.1\DeckOfCardsConsoleApp.pdb
